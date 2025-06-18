@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Frontend Developer using React,Next.js | Computer Science Graduated From Ain Shams University</p>
+<p align="left">A Frontend Developer using React,Next.js | Computer Science Graduate From Ain Shams University</p>
 
 ###
 
