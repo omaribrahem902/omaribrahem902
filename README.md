@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ I'm currently working on Personal Projects<br>📚 I'm currently learning Frontend libraries<br>🎯 Goals: Develop High Performance Web Apps<br>👨‍💻 Let`s Contact and Build Something Amazing 👇</p>
+<p align="left">✨ I'm currently working on Personal Projects<br>📚 I'm currently learning Frontend libraries<br>🎯 Goals: Develop High Performance Web Apps<br>👨‍💻 Contact Me 👇</p>
 
 ###
 
